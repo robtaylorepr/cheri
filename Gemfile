@@ -36,7 +36,7 @@ gem 'pry-rails'
 gem 'rails_12factor', group: :production
 gem 'carrierwave'
 gem 'figaro'
-gem 'rails_admin', '1.1.0'
+gem 'rails_admin', '1.4.3'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
